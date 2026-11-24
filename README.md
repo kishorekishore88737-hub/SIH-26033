@@ -7,7 +7,7 @@
 |---|---|
 | Date | 24-11-2026 |
 | Reference Number | SIH 26033 |
-| Name | Kishore |
+| Name | Kishore M|
 | Register Number | 26018369 |
 
 ---
@@ -452,22 +452,6 @@ FarmDirect aims to empower farmers, support rural communities, and create a sust
 ### 🌱 Our Vision
 
 **"From Farm to Consumer – Fair Prices, Fresh Products, Better Futures."**
-
----
-
-## Project Summary
-
-| Details | Information |
-|---|---|
-| Project Name | FarmDirect |
-| Problem ID | SIH 26033 |
-| Student Name | Kishore |
-| Theme | Agriculture, FoodTech & Rural Development |
-| Main Technology | Artificial Intelligence |
-| Main Objective | Direct Farmer-to-Consumer Marketplace |
-
----
-
 <p align="center">
 
 # 🌾 FarmDirect
